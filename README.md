@@ -11,6 +11,7 @@ Keyla Nallely Canales Nuñez
 
 
 
+
 **LIBRERIAS QUE SE UTILIZARON PARA LOS EJERCICIOS**
 
 SpeechRecognition (speech_recognition)
@@ -22,6 +23,7 @@ setuptools
 webbrowser
 
 pyttsx3
+
 
 
 
