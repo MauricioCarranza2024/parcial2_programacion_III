@@ -3,7 +3,9 @@
 **ESTUDIANTES:**
 
 Mauricio Alfredo Carranza Velasquez
+
 Wesly Ariel Umanzor Arias
+
 Keyla Nallely Canales Nuñez
 
 
@@ -12,9 +14,13 @@ Keyla Nallely Canales Nuñez
 **LIBRERIAS QUE SE UTILIZARON PARA LOS EJERCICIOS**
 
 SpeechRecognition (speech_recognition)
+
 pyaudio
+
 setuptools
+
 webbrowser
+
 pyttsx3
 
 
